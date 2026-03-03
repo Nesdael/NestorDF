@@ -1,7 +1,7 @@
 # Hi there 🎮
 
-_My name is Nestor D. Duran Fuentes_
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYiRNpI40-6j0o4wWpr31ox2P8VCrKPATNDw&s)
+_My name is Nestor D. Duran Fuentes_
 _I'm a software developer in training._
 
 _I'm currently working on an ATM simulator._
